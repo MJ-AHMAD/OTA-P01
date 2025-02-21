@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTA-P01", "OTA-P01\OTA-P01.csproj", "{D14B46B6-877E-42EC-B067-7B3994A2C0B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14B46B6-877E-42EC-B067-7B3994A2C0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B46B6-877E-42EC-B067-7B3994A2C0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B46B6-877E-42EC-B067-7B3994A2C0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B46B6-877E-42EC-B067-7B3994A2C0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3DE16B-50F2-4290-AC46-201489B5ADA7}
+	EndGlobalSection
+EndGlobal
